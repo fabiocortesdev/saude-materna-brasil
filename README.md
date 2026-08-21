@@ -3,7 +3,7 @@
 Portfolio project in progress. Comparative analysis across Brazil's 5
 regions (North, Northeast, Midwest, Southeast, South) using public data
 from SINASC (live birth records), focused on clinical and socioeconomic
-indicators.
+indicators. The period used for this project is 2017-2021
 
 **Status:** 🚧 in progress
 
@@ -11,7 +11,7 @@ indicators.
 
 - Python (data extraction via [PySUS](https://github.com/AlertaDengue/PySUS))
 - Google BigQuery (storage and SQL)
-- Looker Studio (visualization — coming soon)
+- Power BI (visualization — coming soon)
 
 ## Documentation 🚧 in progress
 
